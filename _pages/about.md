@@ -18,10 +18,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## <font color="#1F618D"> Welcome to my personal research website! </font>
+##### <font color="#1F618D"> Welcome to my personal research website! </font>
 
-I am a geophysicist focusing in seismic waveform tomography in exploration, regional and global
-seismology. I combine numerical methods and high performace computing to image the Earth's interior.
+I am a geophysicist focusing in waveform tomography in exploration, regional and global
+seismology. I combine numerical methods and high-performace computing to image the Earth's interior.
 
 Currently, I am a Postdoctoral Research Associate in the
 <a href="https://geosciences.princeton.edu/">Department of Geosciences</a> at Princeton
