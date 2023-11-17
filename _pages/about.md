@@ -7,7 +7,7 @@ subtitle: Postdoctoral Research Associate
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> 314 Guyot Hall</p>
     <p> Princeton NJ 08544 </p>
@@ -15,7 +15,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 ## <font color="#1F618D"> Welcome to my personal research website! </font>
