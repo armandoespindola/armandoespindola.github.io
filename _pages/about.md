@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ##### <font color="#1F618D"> Welcome to my personal research website! </font>
 
-I am a geophysicist focusing in waveform tomography in exploration, regional and global
+I am a geophysicist focusing on waveform tomography in exploration, regional and global
 seismology. I combine numerical methods and high-performace computing to image the Earth's interior.
 
 Currently, I am a Postdoctoral Research Associate in the
