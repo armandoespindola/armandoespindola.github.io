@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> 309 Guyot Hall</p>
+    <p> B422 Briger Hall </p>
     <p> Princeton NJ 08544 </p>
 
 news: false  # includes a list of news items
